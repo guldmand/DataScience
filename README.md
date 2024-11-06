@@ -1,2 +1,2 @@
-# DataScience
-MSc in Data Science 
+# DataSciencePyhon
+Python files from MSc in Data Science 
