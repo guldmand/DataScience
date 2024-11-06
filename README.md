@@ -12,4 +12,4 @@ Python files from MSc in Data Science
 - <a href="/Exercise_Sheets/Exercise_Set_17.pdf" target="_blank">Sheet #7</a>
 
 # Solutions
-- 
+- <a href="/Solutions/Sheet #1/" target="_blank">Sheet #1 Solutions</a>
