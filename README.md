@@ -5,7 +5,7 @@ Python files from MSc in Data Science
 Professor: <a href="https://portal.findresearcher.sdu.dk/en/persons/rago" target="_blank">Antonio Rago</a> <br>
 Teaching Assistant: <a href="#">Bastian Graver Blohm</a> <br>
 
-Book used ##Practical Programming, Third Edition## <br>
+Book used <bold>Practical Programming, Third Edition</bold> <br>
 (<i>ISBN-13: 978-1-6805026-8-8</i>) by Paul Gries, Jennifer Campbell and Jason Montojo
 
 # Exercise Sheets
