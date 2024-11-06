@@ -10,7 +10,7 @@ Book used **Practical Programming, Third Edition** (SBN-13: 978-1-6805026-8-8) b
 - <a href="/Exercise_Sheets/Exercise_Set_4.pdf" target="_blank">Sheet #4</a>
 - <a href="/Exercise_Sheets/Exercise_Set_5.pdf" target="_blank">Sheet #5</a>
 - <a href="/Exercise_Sheets/Exercise_Set_6.pdf" target="_blank">Sheet #6</a>
-- <a href="/Exercise_Sheets/Exercise_Set_17.pdf" target="_blank">Sheet #7</a>
+- <a href="/Exercise_Sheets/Exercise_Set_7.pdf" target="_blank">Sheet #7</a>
 
 # My Solutions
 - <a href="/Solutions/Sheet%20%231/" target="_blank">Sheet #1 Solutions</a>
